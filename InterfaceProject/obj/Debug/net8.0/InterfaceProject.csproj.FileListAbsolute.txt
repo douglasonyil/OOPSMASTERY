@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\bin\Debug\net8.0\InterfaceProject.exe
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\bin\Debug\net8.0\InterfaceProject.deps.json
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\bin\Debug\net8.0\InterfaceProject.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\bin\Debug\net8.0\InterfaceProject.dll
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\bin\Debug\net8.0\InterfaceProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.dll
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\refint\InterfaceProject.dll
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\InterfaceProject.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\InterfaceProject\obj\Debug\net8.0\ref\InterfaceProject.dll

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\bin\Debug\net8.0\MultipleInheritanceTest.exe
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\bin\Debug\net8.0\MultipleInheritanceTest.deps.json
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\bin\Debug\net8.0\MultipleInheritanceTest.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\bin\Debug\net8.0\MultipleInheritanceTest.dll
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\bin\Debug\net8.0\MultipleInheritanceTest.pdb
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.dll
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\refint\MultipleInheritanceTest.dll
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.pdb
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\MultipleInheritanceTest.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\MultipleInheritanceTest\obj\Debug\net8.0\ref\MultipleInheritanceTest.dll

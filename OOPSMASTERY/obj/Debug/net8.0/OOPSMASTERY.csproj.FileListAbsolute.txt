@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\OOPSMASTERY.exe
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\OOPSMASTERY.deps.json
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\OOPSMASTERY.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\OOPSMASTERY.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\OOPSMASTERY.pdb
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\refint\OOPSMASTERY.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.pdb
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\OOPSMASTERY.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\ref\OOPSMASTERY.dll

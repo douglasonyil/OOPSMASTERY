@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\LINQ\bin\Debug\net8.0\LINQINTRO.exe
+C:\Users\ADMIN\source\repos\My Solution\LINQ\bin\Debug\net8.0\LINQINTRO.deps.json
+C:\Users\ADMIN\source\repos\My Solution\LINQ\bin\Debug\net8.0\LINQINTRO.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\LINQ\bin\Debug\net8.0\LINQINTRO.dll
+C:\Users\ADMIN\source\repos\My Solution\LINQ\bin\Debug\net8.0\LINQINTRO.pdb
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.dll
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\refint\LINQINTRO.dll
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.pdb
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\LINQINTRO.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\LINQ\obj\Debug\net8.0\ref\LINQINTRO.dll

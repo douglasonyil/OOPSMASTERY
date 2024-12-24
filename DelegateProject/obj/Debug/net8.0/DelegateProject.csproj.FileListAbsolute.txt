@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\bin\Debug\net8.0\DelegateProject.exe
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\bin\Debug\net8.0\DelegateProject.deps.json
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\bin\Debug\net8.0\DelegateProject.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\bin\Debug\net8.0\DelegateProject.dll
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\bin\Debug\net8.0\DelegateProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.dll
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\refint\DelegateProject.dll
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\DelegateProject.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\DelegateProject\obj\Debug\net8.0\ref\DelegateProject.dll

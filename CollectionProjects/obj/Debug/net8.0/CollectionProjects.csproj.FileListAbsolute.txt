@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\bin\Debug\net8.0\CollectionProjects.exe
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\bin\Debug\net8.0\CollectionProjects.deps.json
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\bin\Debug\net8.0\CollectionProjects.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\bin\Debug\net8.0\CollectionProjects.dll
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\bin\Debug\net8.0\CollectionProjects.pdb
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.dll
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\refint\CollectionProjects.dll
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.pdb
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\CollectionProjects.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\CollectionProjects\obj\Debug\net8.0\ref\CollectionProjects.dll

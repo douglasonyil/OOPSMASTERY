@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\PropertiesProject.exe
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\PropertiesProject.deps.json
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\PropertiesProject.runtimeconfig.json
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\PropertiesProject.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\bin\Debug\net8.0\PropertiesProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\refint\PropertiesProject.dll
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.pdb
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\PropertiesProject.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\My Solution\OOPSMASTERY\obj\Debug\net8.0\ref\PropertiesProject.dll
